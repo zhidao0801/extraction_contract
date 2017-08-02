@@ -1,6 +1,6 @@
 # extraction_contract
 本程序适用于Linux系统下抽取doc或docx文件里面的内容<br>
-包括 合同名称、合同编号、合同金额、乙方、承办部门、签订时间、承办人、合同类型、拟稿时间、合同份数 等信息<br>
+抽取的内容包括 合同名称、合同编号、合同金额、乙方、承办部门、签订时间、承办人、合同类型、拟稿时间、合同份数 等信息<br>
 具体介绍如下<br>
 函数extract_title 提取 合同名称 <br>
 函数extract_number 提取 合同编号 <br>
@@ -12,7 +12,7 @@
 函数extract_typeofcontract 提取 合同类型 <br>
 函数extract_dateprepared 提取 拟稿时间 <br>
 函数extract_numberofcontractcopies 提取 合同份数 <br>
-主函数main(a,b) 参数a要提取的文件所在的文件夹，提取的信息保存在excel文件中，参数b是excel保存的位置<br>
+主函数main(filepath,loadpath) 参数filepath要提取的文件所在的文件夹，提取的信息保存在excel文件中，参数loadpath是excel保存的位置<br>
 
 程序使用示例<br>
 调用main函数<br>
