@@ -1,0 +1,11 @@
+/home/mylinux/workspace/a/13.doc@
+/home/mylinux/workspace/a/23.doc@1030000
+/home/mylinux/workspace/a/13.doc@
+/home/mylinux/workspace/a/19.doc@
+/home/mylinux/workspace/a/22.doc@0
+/home/mylinux/workspace/a/4.doc@90000
+/home/mylinux/workspace/a/57.doc@386,000
+
+
+
+
