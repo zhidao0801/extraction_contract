@@ -1,0 +1,10 @@
+/home/mylinux/workspace/a/3.doc@
+/home/mylinux/workspace/a/4.doc@2014-10-13
+/home/mylinux/workspace/a/6.doc@2011-10-20
+/home/mylinux/workspace/a/23.doc@2011-09-06
+/home/mylinux/workspace/a/16.doc@
+/home/mylinux/workspace/a/53.doc@
+/home/mylinux/workspace/a/55.doc@2013-12
+/home/mylinux/workspace/a/58.doc@2011-12-5
+/home/mylinux/workspace/a/59.doc@
+
